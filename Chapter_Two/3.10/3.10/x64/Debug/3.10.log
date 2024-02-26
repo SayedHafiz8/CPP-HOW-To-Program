@@ -1,0 +1,4 @@
+﻿  3.10.cpp
+E:\my courses\c++ fundamentals\coding\Chapter_Two\3.10\3.10\Invoice.h(16,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\my courses\c++ fundamentals\coding\Chapter_Two\3.10\3.10\Invoice.h(17,23): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  3.10.vcxproj -> E:\my courses\c++ fundamentals\coding\Chapter_Two\3.10\x64\Debug\3.10.exe
